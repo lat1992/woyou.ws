@@ -1,0 +1,17 @@
+[database]
+host = 'localhost'
+username = ''
+password = ''
+databasename = 'WoYou'
+
+[language]
+default = 'zh_CN'
+
+[user]
+server = 'http://localhost/User'
+
+[content]
+server = 'http://localhost/Content'
+
+[storage]
+server = 'http://localhost/Storage'
